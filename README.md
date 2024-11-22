@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=1000&color=6015F7&vCenter=true&width=500&lines=Hello+World!)](https://git.io/typing-svg)
 </hr>
-#  About Me:
+# About Me:
 <br>👋 Hi, I'm Habib Ullah Rahat, <br>Software Engineer<br>a passionate React developer with a strong foundation in C, C++, JavaScript, and Python.<br>I love solving problems and building dynamic, interactive web applications 🌐.<br><br>My projects often incorporate modern libraries like Framer Motion and FontAwesome, and I enjoy tackling challenges in:<br><br>UI/UX design <br>Performance optimization <br>Coding efficiency <br>Feel free to check out my repositories and let's collaborate on something amazing! 🤝<br><br>📧 My email address is rahat09.hur@gmail.com.<br>
 
 
