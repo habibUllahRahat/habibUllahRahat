@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kode+Mono&weight=700&size=40&pause=1000&color=56D2F7&center=true&vCenter=true&width=500&lines=Hello+World!;I'm+Habib+Ullah+Rahat)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteousweight=700&size=40&pause=1000&color=56D2F7&center=true&vCenter=true&width=500&lines=Hello+World!;I'm+Habib+Ullah+Rahat)](https://git.io/typing-svg)
 # About Me:
 <br>👋 Hi, I'm Habib Ullah Rahat, <br>Software Engineer<br>a passionate React developer with a strong foundation in C, C++, JavaScript, and Python.<br>I love solving problems and building dynamic, interactive web applications 🌐.<br><br>My projects often incorporate modern libraries like Framer Motion and FontAwesome, and I enjoy tackling challenges in:<br><br>UI/UX design <br>Performance optimization <br>Coding efficiency <br>Feel free to check out my repositories and let's collaborate on something amazing! 🤝<br><br>📧 My email address is rahat09.hur@gmail.com.<br>
 
