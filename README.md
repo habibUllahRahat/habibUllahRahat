@@ -6,6 +6,7 @@
 # About Me:
 <br>👋 Hi, I'm Habib Ullah Rahat, <br>Software Engineer<br>a passionate React developer with a strong foundation in C, C++, JavaScript, and Python.<br>I love solving problems and building dynamic, interactive web applications 🌐.<br><br>My projects often incorporate modern libraries like Framer Motion and FontAwesome, and I enjoy tackling challenges in:<br><br>UI/UX design <br>Performance optimization <br>Coding efficiency <br>Feel free to check out my repositories and let's collaborate on something amazing! 🤝<br><br>📧 My email address is rahat09.hur@gmail.com.<br>
 
+[![autocomplete](https://codeium.com/badges/user/initially-helped-pekingese-22316/autocomplete)](https://codeium.com/profile/initially-helped-pekingese-22316)
 
 ### 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/hanbibUllahRahat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/md-habib-ullah-rahat-a8b4a11b3/) 
