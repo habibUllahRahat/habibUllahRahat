@@ -9,7 +9,7 @@
 [![autocomplete](https://codeium.com/badges/user/initially-helped-pekingese-22316/autocomplete)](https://codeium.com/profile/initially-helped-pekingese-22316)
 
 ### 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/hanbibUllahRahat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/md-habib-ullah-rahat-a8b4a11b3/) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/hanbibUllahRahat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdhabibullahrahat/) 
 ## Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
