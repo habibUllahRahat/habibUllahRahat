@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=habibUllahRahat&label=Profile%20Views&color=0&icon=7&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=habibUllahRahat&label=Profile%20Views&color=0&icon=7&pretty=true)](https://visitcount.itsvg.in)
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=40&pause=1000&color=56D2F7&center=true&vCenter=true&width=500&lines=Hello+World!;I'm+Habib+Ullah+Rahat;Your+Friendly+Dev" alt="Typing SVG" /></a>
 </h1>
